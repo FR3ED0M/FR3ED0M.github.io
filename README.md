@@ -1,2 +1,5 @@
 # FR3ED0M.github.io
-My github page
+
+My github and career page.
+
+Bootstrap it BABY! 
